@@ -11,7 +11,7 @@ app = Flask(__name__)
 #Config MysQL
 app.config['MYSQL_HOST'] = 'containers-us-west-90.railway.app'
 app.config['MYSQL_USER'] = 'root'
-app.config['MYSQL_PASSWORD'] = 'TDCQjkG7pqIE49yMbfza'
+app.config['MYSQL_PASSWORD'] = ''
 app.config['MYSQL_DB'] = 'railway'
 app.config['MYSQL_CURSORCLASS'] = 'DictCursor'   #by default it returns a tuple, but we want it as dictionary
 
