@@ -1,0 +1,41 @@
+[
+  {
+    "customer": {
+      "address": "987 wayward Hwy, Frisco, TX, 48123448",
+      "phone": "+1 (090) 407-8761",
+      "email": "test@test.com",
+      "company": "test",
+      "name": {
+        "last": "abc",
+        "first": "test"
+      },
+      "_id": "12345"
+    }
+  },
+  {
+    "customer": {
+      "address": "35 Suffolk Avenue, Princeton, NJ, 9098",
+      "phone": "+1 (958) 411-2876",
+      "email": "steve.test@snips.name",
+      "company": "poiuy",
+      "name": {
+        "last": "Steve",
+        "first": "test"
+      },
+      "_id": "999"
+    }
+  },
+  {
+    "customer": {
+      "address": "987 Salem Street, Providence, Massachusetts, 3212",
+      "phone": "+1 (975) 987-1245",
+      "email": "molly.test@crew.co",
+      "company": "LOPIN",
+      "name": {
+        "last": "molly",
+        "first": "test"
+      },
+      "_id": "999"
+    }
+  },
+]
